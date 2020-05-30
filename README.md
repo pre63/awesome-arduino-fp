@@ -12,6 +12,7 @@ A curated list of Awesome Functional Programming resources for Arduino and other
 * [Ferret](https://ferret-lang.org/) - Lisp that compiles to c++.
 * [ECL](https://gitlab.com/embeddable-common-lisp/ecl) - ECL stands for Embeddable Common-Lisp.
 * [microscheme](https://github.com/ryansuchocki/microscheme) - Scheme subset designed for Atmel microcontrollers
+* [arduino-ats](https://github.com/fpiot/arduino-ats) - Arduino programing of ML-style in ATS
 
 ## Libraries
 * [Elixir Ale](https://github.com/fhunleth/elixir_ale) - Interact with hardware in Elixir - GPIOs, I2C and SPI.
