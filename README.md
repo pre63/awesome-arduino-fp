@@ -11,6 +11,7 @@ A curated list of Awesome Functional Programming resources for Arduino and other
 * [Ivory Language](https://ivorylang.org/index.html) - An eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell.
 * [Ferret](https://ferret-lang.org/) - Lisp that compiles to c++.
 * [ECL](https://gitlab.com/embeddable-common-lisp/ecl) - ECL stands for Embeddable Common-Lisp.
+* [microscheme](https://github.com/ryansuchocki/microscheme)
 
 
 ## Libraries
